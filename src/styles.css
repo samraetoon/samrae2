@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+body {
+  font-family: Raleway;
+}
+
+.artboard {
+  height: 100%;
+  width: 1300px;
+  background-color: white;
+}
+
+.first-container {
+  height: 400px;
+  width: 100%;
+}
+
+.socialmedia-handles {
+  width: 140px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.socialmedia-handles div {
+  height: 30px;
+  width: 30px;
+}
+
+.facebook {
+  background-color: #08457e;
+  color: whitesmoke;
+}
+
+.twitter {
+  background-color: #08457ed2;
+  color: whitesmoke;
+}
+
+.instagram {
+  background-color: #08457e;
+  color: whitesmoke;
+}
+
+.linkedin {
+  background-color: #08457ed2;
+  color: whitesmoke;
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 130px;
+}
